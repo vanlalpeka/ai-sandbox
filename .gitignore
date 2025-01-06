@@ -1,0 +1,6 @@
+*.gz
+*.zip
+*.txt
+*.csv
+*.json
+/.venv
