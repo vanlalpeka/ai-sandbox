@@ -27,8 +27,9 @@ There are a number of methods for making AI models more interpretable. Some of t
 The following notebooks are available in this repository:
 <!-- - [Feature Importance](feature_importance.ipynb) -->
 - [Partial Dependence Plots](partial_dependence_plots.ipynb)
-<!-- - [Shapley Values](shapley_values.ipynb) -->
+- [Shapley Values](shapley_values.ipynb)
 - [LIME](LIME.ipynb)
+- [SHAP (SHapley Additive exPlanations)](SHAP.ipynb)
 <!-- - [Rule-based Models](rule_based_models.ipynb)
 - [Surrogate Models](surrogate_models.ipynb) -->
 
