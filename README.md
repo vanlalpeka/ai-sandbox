@@ -25,13 +25,13 @@ There are a number of methods for making AI models more interpretable. Some of t
 
 # Notebooks
 The following notebooks are available in this repository:
-<!-- - [Feature Importance](feature_importance.ipynb)
+<!-- - [Feature Importance](feature_importance.ipynb) -->
 - [Partial Dependence Plots](partial_dependence_plots.ipynb)
-- [Shapley Values](shapley_values.ipynb) -->
+<!-- - [Shapley Values](shapley_values.ipynb) -->
 - [LIME](LIME.ipynb)
 <!-- - [Rule-based Models](rule_based_models.ipynb)
 - [Surrogate Models](surrogate_models.ipynb) -->
 
 # References
-- [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
-- LIME ["Why Should I Trust You?": Explaining the Predictions of Any Classifier](https://doi.org/10.48550/arXiv.1602.04938)
+- [Interpretable Machine Learning, Christoph Molnar](https://christophm.github.io/interpretable-ml-book/)
+- LIME ["Why Should I Trust You?": Explaining the Predictions of Any Classifier, Marco Tulio Ribeiro, Sameer Singh, Carlos Guestrin, 2016](https://doi.org/10.48550/arXiv.1602.04938)
