@@ -1,8 +1,7 @@
 *.gz
 *.zip
-*.txt
 *.csv
 *.json
 /.venv
 *.csv
-.xaivenv/
+.xai38/
