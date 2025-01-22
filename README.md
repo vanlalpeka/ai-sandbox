@@ -30,12 +30,13 @@ The following notebooks are available in this repository:
 - [Shapley Values](shapley_values.ipynb)
 - [LIME](LIME.ipynb)
 - [SHAP (SHapley Additive exPlanations)](SHAP.ipynb)
-- [Counterfactual](counterfactual.ipynb)
+- [Counterfactual](counterfactual/counterfactual.ipynb)
 <!-- - [Rule-based Models](rule_based_models.ipynb)
 - [Surrogate Models](surrogate_models.ipynb) -->
 
 # References
 - [Interpretable Machine Learning, Christoph Molnar](https://christophm.github.io/interpretable-ml-book/)
 - LIME ["Why Should I Trust You?": Explaining the Predictions of Any Classifier, Marco Tulio Ribeiro, Sameer Singh, Carlos Guestrin, 2016](https://doi.org/10.48550/arXiv.1602.04938)
-- SHAP (SHapley Additive exPlanations) ["AUnified Approach to Interpreting Model Predictions" Lundberg et al., 2017](https://proceedings.neurips.cc/paper_files/paper/2017/file/8a20a8621978632d76c43dfd28b67767-Paper.pdf)
-- Counterfactual ["Counterfactual Explanations without Opening the Black Box: Automated Decisions and the GDPR", Wachter, 2017](https://arxiv.org/pdf/1711.00399)
+- SHAP (SHapley Additive exPlanations) ["A Unified Approach to Interpreting Model Predictions" Lundberg et al., 2017](https://proceedings.neurips.cc/paper_files/paper/2017/file/8a20a8621978632d76c43dfd28b67767-Paper.pdf)
+- Counterfactual ["Counterfactual Explanations without Opening the Black Box: Automated Decisions and the GDPR", Wachter et. al., 2017](https://arxiv.org/pdf/1711.00399)
+- Evaluating LIME and SHAP using Counterfactuals["Towards Unifying Feature Attribution and Counterfactual Explanations: Different Means to the Same End", Mothilal et. al., 2021](https://arxiv.org/pdf/2011.04917)
